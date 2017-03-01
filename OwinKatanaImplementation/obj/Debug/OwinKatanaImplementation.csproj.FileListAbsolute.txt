@@ -1,0 +1,15 @@
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\OwinKatanaImplementation.exe.config
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\OwinKatanaImplementation.exe
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\OwinKatanaImplementation.pdb
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Microsoft.Owin.dll
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Microsoft.Owin.Hosting.dll
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Owin.dll
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Microsoft.Owin.xml
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Microsoft.Owin.Hosting.xml
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\obj\Debug\OwinKatanaImplementation.csprojResolveAssemblyReference.cache
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\obj\Debug\OwinKatanaImplementation.exe
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\obj\Debug\OwinKatanaImplementation.pdb
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Microsoft.Owin.Diagnostics.dll
+c:\users\madan\documents\visual studio 2015\Projects\OwinKatanaImplementation\OwinKatanaImplementation\bin\Debug\Microsoft.Owin.Diagnostics.xml
